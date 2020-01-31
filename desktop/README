@@ -1,0 +1,18 @@
+The Dark Side of Asylum
+ 
+Controles
+Menu:
+	Setas do teclado para movimentação da “seta de escolha”;
+	“Enter” para selecionar a escolha;
+	Tecla “M” ou apertar o botão desenhado na tela com o mouse para parar o som;
+Escolhas:
+	Setas do teclado para a movimentação da “seta de escolha”;
+	“Enter” para selecionar a escolha;
+Interatividade:
+	Setas do teclado para a movimentação do personagem;
+	“Espaço” para a interação com objetos e NPCs;
+
+Requisitos para rodar o jogo:
+	Compilador de Java;
+	Biblioteca LibGdx;
+	Jdbc driver oracle sql developer;
